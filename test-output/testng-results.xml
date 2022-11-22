@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-22T22:43:22 EET" name="Default suite" finished-at="2022-11-22T22:43:38 EET" duration-ms="15621">
+    <groups>
+    </groups>
+    <test started-at="2022-11-22T22:43:22 EET" name="Default test" finished-at="2022-11-22T22:43:38 EET" duration-ms="15621">
+      <class name="Nagwa.Maven.Chrome">
+        <test-method is-config="true" signature="openURl()[pri:0, instance:Nagwa.Maven.Chrome@c8c12ac]" started-at="2022-11-22T22:43:22 EET" name="openURl" finished-at="2022-11-22T22:43:28 EET" duration-ms="5679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURl -->
+        <test-method signature="chooseLang()[pri:1, instance:Nagwa.Maven.Chrome@c8c12ac]" started-at="2022-11-22T22:43:28 EET" name="chooseLang" finished-at="2022-11-22T22:43:29 EET" duration-ms="780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chooseLang -->
+        <test-method signature="searchNagwalessons()[pri:2, instance:Nagwa.Maven.Chrome@c8c12ac]" started-at="2022-11-22T22:43:29 EET" name="searchNagwalessons" finished-at="2022-11-22T22:43:30 EET" duration-ms="1321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchNagwalessons -->
+        <test-method signature="searchAdditionessons()[pri:3, instance:Nagwa.Maven.Chrome@c8c12ac]" started-at="2022-11-22T22:43:30 EET" name="searchAdditionessons" finished-at="2022-11-22T22:43:31 EET" duration-ms="1421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAdditionessons -->
+        <test-method signature="chooseSecondNagwalesson()[pri:4, instance:Nagwa.Maven.Chrome@c8c12ac]" started-at="2022-11-22T22:43:31 EET" name="chooseSecondNagwalesson" finished-at="2022-11-22T22:43:35 EET" duration-ms="3053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chooseSecondNagwalesson -->
+        <test-method signature="chooseworksheet()[pri:5, instance:Nagwa.Maven.Chrome@c8c12ac]" started-at="2022-11-22T22:43:35 EET" name="chooseworksheet" finished-at="2022-11-22T22:43:37 EET" duration-ms="2865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chooseworksheet -->
+        <test-method signature="countworksheet()[pri:6, instance:Nagwa.Maven.Chrome@c8c12ac]" started-at="2022-11-22T22:43:37 EET" name="countworksheet" finished-at="2022-11-22T22:43:37 EET" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countworksheet -->
+        <test-method is-config="true" signature="endtask()[pri:0, instance:Nagwa.Maven.Chrome@c8c12ac]" started-at="2022-11-22T22:43:37 EET" name="endtask" finished-at="2022-11-22T22:43:38 EET" duration-ms="328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endtask -->
+      </class> <!-- Nagwa.Maven.Chrome -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
